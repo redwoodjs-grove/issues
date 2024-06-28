@@ -1,2 +1,3 @@
-# issues
-This is the repository for issues and discussions for https://grove.dev/
+# Grove Issues and RFCs
+
+This repository is designed to house the bug reports and discussions for the https://grove.dev deploy platform. 
